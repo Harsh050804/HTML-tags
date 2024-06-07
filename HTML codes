@@ -1,4 +1,5 @@
 HTML: Hyper Text Markup Language{Skeletal system of the web Page}
+*NOT CASE SENSITIVE
 Code 1:-
 <!DOCTYPE html>>
 <html>
@@ -73,5 +74,159 @@ Code 5:-
 <body>
     <a href="https://cipherschools.com">Go to cipher Schools</a>
     <img src="https://ik.imagekit.io/cipherschools/CipherMentors/Shantanu.png">
+</body>
+</html>
+
+Code 6:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <button>CLICK ME</button>
+</body>
+</html>
+
+Code 7:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <blockquote>Hello there..!!</blockquote>
+    <button>CLICK ME</button>
+</body>
+</html>
+
+Code 8:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <q>Hello there..!!</q>
+    <button>CLICK ME</button>
+</body>
+</html>
+
+Code 9:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <p><Abbr title = "WORLD HEALTH ORGANISTAION">WHO</Abbr>is a good organisation.</p>
+    <button>CLICK ME</button>
+</body>
+</html>
+
+Code 10:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <address>HELLO THERE...!<br>
+        HOWDY!!<br>
+    </address>
+    <p><Abbr title = "WORLD HEALTH ORGANISTAION">WHO</Abbr>is a good organisation.</p>
+    <button>CLICK ME</button>
+</body>
+</html>
+
+Cod 11:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <h4>Unordered List
+    <ul>
+        <li>COFEE</li>
+        <li>Milk</li>
+        <li>TEA</li>
+    </ul>
+    <h4>Ordered List</h4>
+    <ol>
+        <li>COFEE</li>
+        <li>Milk</li>
+        <li>TEA</li>
+    </ol>
+    </h4>
+</body>
+</html>
+
+Code 12:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+    <h4>Unordered List
+    <ul>
+        <li>COFEE</li>
+        <li>Milk</li>
+        <li>TEA</li>
+    </ul>
+    <h4>Ordered List</h4>
+    <ol>
+        <li>COFEE</li>
+        <li>Milk</li>
+        <li>TEA</li>
+    </ol>
+    <h5>Desctription List</h5>
+    <dl>
+        <dt>Milk</dt>
+        <dd>Given by COW</dd>
+        <dt>COFEE</dt>
+        <dd>Made by coffee beans</dd>
+        <dt>TEA</dt>
+        <dd>Made by tea leaves</dd>
+    </dl>
+    </h4>
+</body>
+</html>
+
+Code 13:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEADING</title>
+</head>
+<body>
+   <p><i>HELLO THERE..!<br>
+   <b>HOWDY!!</b></i></p>
+   <hr>
 </body>
 </html>
